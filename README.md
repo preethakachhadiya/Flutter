@@ -6,7 +6,7 @@ Projects:
  
   - ninja_id
 
-  ![Image3](ninja_id/image.png =100x300)
+  ![Image3](ninja_id/image.png) { width: 200px; height: 500px; }
 
   - Quotes
   
