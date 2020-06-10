@@ -6,7 +6,7 @@ Projects:
  
   - ninja_id
 
-  ![Image3](ninja_id/image.png)
+  ![Image3](ninja_id/image.png =100x300)
 
   - Quotes
   
