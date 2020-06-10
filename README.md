@@ -4,16 +4,14 @@ Some simple apps built in Flutter Framework using Dart language
 
 Projects:
  
-  - Calculator
+  - ninja_id
 
-  ![Image3](calculator/Calculator.png)
+  ![Image3](ninja_id/image.png)
 
-  - Drum Machine
+  - Quotes
   
-  ![Image2](drum-machine/drumMachine.png)
+  ![Image2](quotes/image.png)
   
-  - Pomodro Clock
+  - World Time
   
-  - Markdown Previewer
   
-  ![Image1](https://raw.githubusercontent.com/prakrutivaghasiya/React-Mini-Projects-FCC/master/markdown-previewer/MarkdownPreviewer.png)
